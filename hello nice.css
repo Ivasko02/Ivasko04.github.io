@@ -1,0 +1,45 @@
+body{background-image:url('police-car-265570_1920.jpg');
+
+padding:0;
+margin:0;
+
+}
+.signin{
+	
+	
+	
+	
+	
+	
+border:4px outset blue;
+height: 400px;
+width:500px;
+margin-top:200px;
+margin-left:380px;
+
+
+
+
+
+}
+
+.button{
+	margin-left:60%;
+	margin-top:3%;
+	
+}
+
+.input{margin-left:35%;
+background:linear-gradient(to right,green,yellow);
+padding:8px;
+border:1px solid blue;
+color:white;
+
+
+
+}
+
+
+
+
+
